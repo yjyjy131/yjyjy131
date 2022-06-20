@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yjyjy131
+- 👋 Hi, I’m Mackerel pancake @yjyjy131
 - 👀 I’m interested in ML/DL engineering.
 - 📫 How to reach me ... fulmeach787@gmail.com
 
